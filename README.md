@@ -1,9 +1,7 @@
 # Tanvir Ahahmed Sadi
 
 - **Email:** [tanvirsadi4@gmail.com](mailto:tanvirsadi4@gmail.com)
-- **Phone:** 01764070233
 - **LinkedIn:** [https://www.linkedin.com/in/tanvirsadi/](https://www.linkedin.com/in/tanvirsadi/)
-- **Address:** 82/3 Balughat Bazar, Dhaka Cantonment, Dhaka – 1206
 
 ## Technical Skills
 
