@@ -1,7 +1,12 @@
-# Tanvir Ahahmed Sadi
+## Profile
 
-- **Email:** [tanvirsadi4@gmail.com](mailto:tanvirsadi4@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/tanvirsadi/](https://www.linkedin.com/in/tanvirsadi/)
+Ambitious and hardworking CSE graduate passionate about backend web development. Strong technical skills in PHP, JavaScript, and Laravel. Currently, a Software Engineer at HiLinkz, a SaaS-based startup, driving innovative software solutions. Previously an intern at bKash Limited, integrating payment gateways with various merchants. Additional experience includes Full Stack Web Developer at H&H Global Education and Undergraduate Assistant at North South University.
+
+## Projects
+
+### PHP Web Framework - Luminous [click here](https://github.com/Tanvir-Sadi/luminous)
+- Designed a lightweight web framework following MVC architecture.
+- First-party features include Routes, ORM, Controllers, and Template Engine.
 
 ## Technical Skills
 
@@ -38,13 +43,3 @@
 - Bachelor of Science in Computer Science and Engineering | North South University | June 2019 - June 2023 | CGPA: 3.67
 - HSC in Science | Adamjee Cantonment College, Dhaka | March 2019 | GPA: 5.00
 - SSC in Science | Adamjee Cantonment Public School, Dhaka | December 2017 | GPA: 5.00
-
-## Profile
-
-Ambitious and hardworking CSE graduate passionate about backend web development. Strong technical skills in PHP, JavaScript, and Laravel. Currently, a Software Engineer at HiLinkz, a SaaS-based startup, driving innovative software solutions. Previously an intern at bKash Limited, integrating payment gateways with various merchants. Additional experience includes Full Stack Web Developer at H&H Global Education and Undergraduate Assistant at North South University.
-
-## Projects
-
-### PHP Web Framework - Luminous [click here](https://github.com/Tanvir-Sadi/luminous)
-- Designed a lightweight web framework following MVC architecture.
-- First-party features include Routes, ORM, Controllers, and Template Engine.
