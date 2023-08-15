@@ -40,6 +40,6 @@ Ambitious and hardworking CSE graduate passionate about backend web development.
 
 ## Education
 
-- Bachelor of Science in Computer Science and Engineering | North South University | June 2019 - June 2023 | CGPA: 3.67
+- Bachelor of Science in Computer Science and Engineering | North South University | June 2019 - June 2023 | 
 - HSC in Science | Adamjee Cantonment College, Dhaka | March 2019 | GPA: 5.00
 - SSC in Science | Adamjee Cantonment Public School, Dhaka | December 2017 | GPA: 5.00
