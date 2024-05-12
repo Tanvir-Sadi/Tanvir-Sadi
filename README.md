@@ -24,10 +24,11 @@ Ambitious and hardworking CSE graduate passionate about backend web development.
 [![](https://visitcount.itsvg.in/api?id=tanvir-sadi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 🧑‍🔬 Work Experience
-### Software Engineer, Backend | HiLinkz Ltd | June 2023 – Present
-- Optimized the legacy code base, improving backend performance by a factor of 10.
-- Developed and maintained backend systems using PHP and JavaScript with Laravel framework.
-- Created robust APIs for seamless frontend-backend communication.
+
+### Software Engineer | Content Codes | June 2023 – Present
+- Developed Scripts for automating various CRM site.
+- Automated Leads Management tools.
+- Debugging and Troubleshooting
 
 ### Intern, Payment Gateway Integration | bKash Ltd | January 2023 – May 2023
 - Integrated payment gateways with merchants, ensuring smooth transactions.
@@ -38,6 +39,11 @@ Ambitious and hardworking CSE graduate passionate about backend web development.
 - Assisted professors and staff with administrative tasks.
 - Provided academic support to students and collaborated on research projects.
 
+### Software Engineer, Backend | HiLinkz Ltd | December 2022 – January 2023
+- Optimized the legacy code base, improving backend performance by a factor of 10.
+- Developed and maintained backend systems using PHP and JavaScript with Laravel framework.
+- Created robust APIs for seamless frontend-backend communication.
+  
 ### Web Developer & Digital Marketing Officer | H&H Global Education Ltd | March 2020 – January 2023
 - Managed and developed 3 web applications for key agents.
 - Optimized system performance through code optimization and database tuning.
