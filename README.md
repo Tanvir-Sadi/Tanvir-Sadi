@@ -18,12 +18,14 @@ Ambitious and hardworking CSE graduate currently working as a System Engineer in
 
 # 🧑‍🔬 Work Experience
 ### AI Engineer | 株式会社 DSOL NSP | May 2026 - Present
-- Generative AI
-- Gen AI API
+- Develop and integrate Generative AI solutions to improve internal workflows and product capabilities.
+- Design, consume, and maintain GenAI APIs for scalable, production-ready AI features.
+
 
 ### System Engineer | 株式会社 DSOL NSP | September 2024 - April 2026
-- Web applications
-- Windows applications
+- Designed, developed, and maintained web applications for internal and client-facing business needs.
+- Built and supported Windows desktop applications to streamline operational processes.
+
 
 ### Software Engineer | Content Codes | June 2023 - Present
 - Developed Scripts for automating various CRM site.
