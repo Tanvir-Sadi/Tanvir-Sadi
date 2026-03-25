@@ -6,6 +6,11 @@ Ambitious and hardworking CSE graduate passionate about backend web development.
 - Designed a lightweight web framework following MVC architecture.
 - First-party features include Routes, ORM, Controllers, and Template Engine.
 
+### Aurora [click here](https://github.com/Tanvir-Sadi/aurora)
+- Built an interactive frontend website that transforms into a night-sky aurora experience with one-click activation.
+- Implemented video-first playback (`.webm`/`.mp4`) with automatic canvas fallback for reliable cross-device rendering.
+- Added accessibility and UX enhancements including keyboard support, reduced-motion behavior, responsive layout, and pointer-based parallax effects.
+
 # 💻 Technical Skills
 ```json
 {
