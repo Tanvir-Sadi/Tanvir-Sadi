@@ -27,7 +27,7 @@ Ambitious and hardworking CSE graduate currently working as a System Engineer in
 - Built and supported Windows desktop applications to streamline operational processes.
 
 
-### Software Engineer | Content Codes | June 2023 - Present
+### Software Engineer | Content Codes | June 2023 - July 2024
 - Developed Scripts for automating various CRM site.
 - Automated Leads Management tools.
 - Debugging and Troubleshooting
